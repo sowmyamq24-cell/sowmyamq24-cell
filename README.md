@@ -8,26 +8,21 @@
 
 ## 🚀 About Me
 I am transitioning from Middleware support (IBM MQ) into Data Analytics.  
-I enjoy working with data to find insights and solve real-world problems.
+I enjoy working with data to generate insights and solve real-world business problems.
 
 ---
 
 ## 🛠 Technical Skills
-- Python  
-- SQL  
-- Data Analysis  
-- Microsoft Excel  
-- Power BI  
-- IBM MQ  
-- Linux  
-- Generative AI  
-- Prompt Engineering  
+**Languages & Tools:** Python, SQL, Excel  
+**Visualization:** Power BI  
+**Systems:** IBM MQ, Linux  
+**Others:** Data Analysis, Generative AI, Prompt Engineering  
 
 ---
 
 ## 📈 Areas of Interest
 - Data Analytics  
-- Business Analytics  
+- Business Intelligence  
 - Artificial Intelligence  
 - Data Visualization  
 
@@ -36,4 +31,3 @@ I enjoy working with data to find insights and solve real-world problems.
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/mereddy-sowmya-30351730b  
 - GitHub: https://github.com/sowmyamq24-cell  
-
