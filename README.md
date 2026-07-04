@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sowmya 👋
 
-<!--
-**sowmyamq24-cell/sowmyamq24-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 IBM MQ (WMQ) Administrator with 2+ years of experience at Wipro
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Pursuing AI & Data Analytics at IIT Patna × Masai School
+
+## 🛠 Technical Skills
+
+* Python
+* SQL
+* Data Analysis
+* Microsoft Excel
+* Power BI
+* IBM MQ
+* Linux
+* Generative AI
+* Prompt Engineering
+
+## 📈 Areas of Interest
+
+* Data Analytics
+* Business Analytics
+* Artificial Intelligence
+* Data Visualization
+
+## 📫 Connect with Me
+
+* LinkedIn: [www.linkedin.com/in/mereddy-sowmya-30351730b](http://www.linkedin.com/in/mereddy-sowmya-30351730b)
+* GitHub: https://github.com/sowmyamq24-cell
