@@ -33,4 +33,9 @@ Currently building real-world projects in Python, SQL, and Power BI to strengthe
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/mereddy-sowmya-30351730b  
-- GitHub: https://github.com/sowmyamq24-cell  
+- GitHub: https://github.com/sowmyamq24-cell
+- ---
+## 🚀 Featured Projects
+- [SQL Data Analysis](https://github.com/sowmyamq24-cell/sql-data-analysis)
+- [Sales Dashboard Project](https://github.com/sowmyamq24-cell/sales-dashboard-project)
+- [Used Cars Data Preparation](https://github.com/sowmyamq24-cell/used-cars-data-prep-100my-) 
