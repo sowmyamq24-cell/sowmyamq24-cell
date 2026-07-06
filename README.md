@@ -1,7 +1,4 @@
-
-
-# Hi, I'm Sowmya 👋
-
+  # Hi, I'm Sowmya 👋
 💼 IBM MQ Administrator with 2+ years of experience at Wipro  
 📊 Aspiring Data Analyst | Python | SQL | Power BI | Excel  
 🎓 Pursuing AI & Data Analytics at IIT Patna × Masai School  
@@ -31,11 +28,14 @@ Currently building real-world projects in Python, SQL, and Power BI to strengthe
 
 ---
 
+## 🚀 Featured Projects
+- [SQL Data Analysis](https://github.com/sowmyamq24-cell/sql-data-analysis)
+- [HackerNews Data Pipeline](https://github.com/sowmyamq24-cell/hackernews-data-pipeline)
+- [Python Basics](https://github.com/sowmyamq24-cell/python-basics)
+- [Used Cars Data Preparation](https://github.com/sowmyamq24-cell/used-cars-data-prep-100my-)
+
+---
+
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/mereddy-sowmya-30351730b  
 - GitHub: https://github.com/sowmyamq24-cell
-- ---
-## 🚀 Featured Projects
-- [SQL Data Analysis](https://github.com/sowmyamq24-cell/sql-data-analysis)
-- [Sales Dashboard Project](https://github.com/sowmyamq24-cell/sales-dashboard-project)
-- [Used Cars Data Preparation](https://github.com/sowmyamq24-cell/used-cars-data-prep-100my-) 
