@@ -32,8 +32,7 @@ Currently building real-world projects in Python, SQL, and Power BI to strengthe
 - [SQL Data Analysis](https://github.com/sowmyamq24-cell/sql-data-analysis)
 - [HackerNews Data Pipeline](https://github.com/sowmyamq24-cell/hackernews-data-pipeline)
 - [Python Basics](https://github.com/sowmyamq24-cell/python-basics)
-- [Used Cars Data Preparation](https://github.com/sowmyamq24-cell/used-cars-data-prep-100my-)
-
+- [Used Cars Data Preparation](https://github.com/sowmyamq24-cell/used-cars-data-preparation)
 ---
 
 ## 📫 Connect with Me
